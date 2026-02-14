@@ -1,22 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shadrack makau
 =======================================================================================================================================
 
-\- Engineer by day, guitarist by night Systems that sing
---------------------------------------------------------
+I build modular, scalable backend systems with precision and purpose—whether it's debugging authentication flows, designing clean APIs, or deploying secure infrastructure. setting up CI/CD pipelines and implementing version control
 
-I build modular, scalable backend systems with precision and purpose—whether it's debugging authentication flows, designing clean APIs, or deploying secure infrastructure.
+Beyond the code, I explore applied mathematics for robotics, control systems, and optimization.=
 
-Beyond the code, I explore applied mathematics for robotics, control systems, and optimization. I believe in systems that learn, adapt, and inspire—just like the people who build them.
-
-🎸 Guitar in hand, code in mind.
-
-🛠️ Projects with soul.
 
 🚀 Vision: Launch a robotics firm that redefines tactile tech and machine intuition.
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [shadrackmaku@gmail.com](mailto:shadrackmaku@gmail.com)
-* 🧠  I'm currently learning JavaScript
+* 🧠  I'm currently working on a project called Lumina
 * 👥  I'm looking to collaborate on any challenge you have
 
 <p align="left">
