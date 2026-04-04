@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shadrack makau
 =======================================================================================================================================
 
-I build modular, scalable backend systems with precision and purpose—whether it's debugging authentication flows, designing clean APIs, or deploying secure infrastructure. setting up CI/CD pipelines and implementing version control
+I build modular, scalable backend systems with precision and purpose, whether it's debugging authentication flows, designing clean APIs, or deploying secure infrastructure. setting up CI/CD pipelines and implementing version control
 
-Beyond the code, I explore applied mathematics for robotics, control systems, and optimization.=
+Beyond the code, I explore applied mathematics for robotics, control systems, and optimization.
 
 
 🚀 Vision: Launch a robotics firm that redefines tactile tech and machine intuition.
