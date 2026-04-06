@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 **Backend Engineer · Systems Architect · Applied Math Enthusiast · Robotics**
  
-I design and build backend systems that scale — from authentication flows and API architecture to infrastructure and CI/CD. I care about correctness, clarity, and systems that hold their shape under pressure.
+I design and build backend systems that scale from authentication flows and API architecture to infrastructure and CI/CD. I care about correctness, clarity, and systems that hold their shape under pressure.
  
 ## How I Operate
  
